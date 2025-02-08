@@ -1,0 +1,16 @@
+﻿  MVCParameterization.cpp
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(44,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(79,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(80,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(93,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(130,39): warning C4244: “=”: 从“const double”转换到“Scalar”，可能丢失数据
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(130,39): warning C4244:         with
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(130,39): warning C4244:         [
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(130,39): warning C4244:             Scalar=float
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(130,39): warning C4244:         ]
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(131,39): warning C4244: “=”: 从“const double”转换到“Scalar”，可能丢失数据
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(131,39): warning C4244:         with
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(131,39): warning C4244:         [
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(131,39): warning C4244:             Scalar=float
+D:\Myproject\MVCParameterization\MVCParameterization\MVCParameterization.cpp(131,39): warning C4244:         ]
+  MVCParameterization.vcxproj -> D:\Myproject\MVCParameterization\x64\Debug\MVCParameterization.exe
